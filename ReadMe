@@ -6,6 +6,8 @@ Click at specific coordinates: Set the X and Y coordinates on the screen where t
 Set click interval: Specify the time interval between each click.
 Start/Stop functionality: Start and stop the auto clicker with the click of a button.
 Simple and intuitive GUI: The application provides a user-friendly interface for easy interaction.
+Use "esc" key to escape a current automation.
+
 Getting Started
 To use the Auto Clicker application, follow these steps:
 
